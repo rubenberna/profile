@@ -1,0 +1,97 @@
+body {
+  background-color: rgb(235, 235, 235);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300px;
+  color: rgb(170,170,170);
+  font-size: 16px;
+  line-height: 150%;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: #E7BB41;
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 21px;
+}
+
+h3 {
+  font-size: 16px;
+}
+h2, h3 {
+
+  color: rgb(120, 120, 120);
+  font-weight: lighter;
+}
+
+.things_i_love {
+  color: #44BBA4;
+  font-weight: bold;
+}
+
+.pics {
+  width: 200px;
+  border-radius: 3px;
+}
+
+#img-circle {
+  width: 300px;
+  border-radius: 50%;
+  opacity: 0.8;
+}
+
+a {
+  color: #BDBDBD;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #799496;
+}
+
+.card-white {
+  background-color: white;
+  width: 500px;
+  padding: 30px;
+  margin: 20px auto;
+  border-radius: 3px;
+  border: 1px solid lightgrey;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+
+}
+
+.column {
+  padding-left: 45px;
+  padding-bottom: 8px;
+}
+
+.btn-blue {
+    padding: 13px 21px;
+    background-color: #777984;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+  }
+
+.btn-blue:hover {
+  background-color: rgb(140,140, 140);
+  color: white;
+}
+
+.icon-lg {
+  font-size: 25px;
+}
+
+.light-font {
+  font-weight: lighter;
+}
